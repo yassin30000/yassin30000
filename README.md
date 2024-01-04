@@ -31,11 +31,9 @@ I'm currently diving into Game Development as well as AI to enhance my skill set
 
 ## 💼 Professional Experience
 
-- [Company/Organization #1, Your Role, Dates]
-  - Brief description of your responsibilities and achievements.
+- App Academy, Graduated December 2023
+  - App Academy is an intensive, year-long coding bootcamp designed to provide a comprehensive and immersive learning experience for aspiring software developers. With a curriculum spanning over 900+ hours, the program is crafted to equip students with the skills and knowledge necessary for a successful career in the tech industry.
 
-- [Company/Organization #2, Your Role, Dates]
-  - Another brief description of your responsibilities and achievements.
 
 ## 🚀 Projects
 
