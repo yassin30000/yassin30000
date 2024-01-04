@@ -27,7 +27,7 @@ I'm Yassin, a passionate Software Engineer based in Los Angeles, CA. Welcome to 
 
 ## 🌱 Currently Learning
 
-I'm currently diving into Game Development as well as AI to enhance my skill set and stay up-to-date with the latest trends in the tech world.
+I'm currently diving into Game Development as well as AI 🤖 to enhance my skill set and stay up-to-date with the latest trends in the tech world.
 
 ## 💼 Professional Experience
 
