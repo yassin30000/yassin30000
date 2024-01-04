@@ -14,3 +14,50 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello, World! 👋
+
+I'm Yassin, a passionate Software Engineer based in Los Angeles, CA. Welcome to my GitHub profile!
+
+## 🔧 Technologies & Tools
+
+- **Languages:** Javascript | CSS | Python
+- **Frameworks & Libraries:** Node.js | Flask | Redux | React | PostgreSQL | Express
+- **Tools:** Visual Studio Code
+
+## 🌱 Currently Learning
+
+I'm currently diving into Game Development as well as AI to enhance my skill set and stay up-to-date with the latest trends in the tech world.
+
+## 💼 Professional Experience
+
+- [Company/Organization #1, Your Role, Dates]
+  - Brief description of your responsibilities and achievements.
+
+- [Company/Organization #2, Your Role, Dates]
+  - Another brief description of your responsibilities and achievements.
+
+## 🚀 Projects
+
+Here are a few projects I'm proud of:
+
+1. **Inventory Now**
+   - Inventory Now is a solo project that I conceptualized and developed to address the need for an efficient inventory tracking solution. It serves as a web-based platform for users to manage and monitor their inventory effortlessly.
+   - LIVE LINK: https://inventory-now.onrender.com/
+   - GITHUB: https://github.com/yassin30000/inventory_now
+
+
+2. **Robinhoodie**
+   - Robinhoodie is a collaborative effort with a team of 3 developers, a clone project inspired by the popular financial trading platform, Robinhood. As a team, we aimed to recreate the core functionalities and user experience of Robinhood, providing users with a simplified and accessible platform for stock trading and investment.
+   - LIVE LINK: https://robinhoodie-9jff.onrender.com/
+   - GITHUB: https://github.com/yassin30000/robinhoodie
+
+
+Feel free to explore my repositories for more!
+
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/yassin-tantawy-2bb807189/
+- Email: yassintantawy3@gmail.com
+
+Let's connect and collaborate on exciting projects together! 🌐✨
